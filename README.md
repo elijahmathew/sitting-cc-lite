@@ -8,6 +8,12 @@
 
 ---
 
+## Why This Exists
+
+Modern wearables generate increasingly granular recovery data, but they rarely translate those signals into a clear daily decision. Sitting CC explores whether an interpretable AI layer can collapse recovery and training load into one explainable instruction: how hard should you train today?
+
+---
+
 ## The Problem
 
 Endurance athletes collect enormous amounts of biometric data — HRV, resting heart rate, sleep quality, training load — but most platforms don't answer the question that actually matters each morning:
